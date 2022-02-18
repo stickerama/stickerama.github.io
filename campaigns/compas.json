@@ -1,17 +1,17 @@
 [
   {
-    "title": "holanda",
-    "imageURL": "https://www.recetas360.com/wp-content/uploads/2019/07/como-hacer-papas-fritas-de-mcdonals.jpg",
-    "appURL": "https://play.google.com/store/apps/developer?id=Stickerama+%F0%9F%9A%80"
-  },
-   {
-    "title": "Promocion MIKE",
-    "imageURL": "https://stickerama.github.io/campaigns/test.png",
-    "appURL": "https://play.google.com/store/apps/details?id=mikecrack.compas.stickers"
+    "title": "Stickers NAVIDAD",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignNAVIDAD.png",
+    "appURL": "https://play.google.com/store/apps/details?id=navidad.fiestas.stickers"
   },
   {
-    "title": "sayonara maestroooo",
-    "imageURL": "https://www.recetas360.com/wp-content/uploads/2019/07/como-hacer-papas-fritas-de-mcdonals.jpg",
-    "appURL": "https://stickerama.github.io/"
+    "title": "Stickers COMPAS",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignCOMPAS2.png",
+    "appURL": "https://play.google.com/store/apps/details?id=mikecrack.compas.stickers"
+  },
+   {
+    "title": "Stickers GACHA",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignGACHA.png",
+    "appURL": "https://play.google.com/store/apps/details?id=gacha.life.stickers"
   }
 ]
