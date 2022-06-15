@@ -1,1 +1,17 @@
-
+[
+  {
+    "title": "Stickers COMPAS",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignCOMPAS2.png",
+    "appURL": "https://play.google.com/store/apps/details?id=mikecrack.compas.stickers"
+  },
+  {
+    "title": "Stickers LYNA",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignLYNA.png",
+    "appURL": "https://play.google.com/store/apps/details?id=lyna.vallejos.stickers"
+  },
+  {
+    "title": "Stickers GACHA",
+    "imageURL": "https://stickerama.github.io/campaigns/campaignGACHA.png",
+    "appURL": "https://play.google.com/store/apps/details?id=gacha.life.stickers"
+  }
+]
