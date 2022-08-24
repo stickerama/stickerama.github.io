@@ -2,3 +2,4 @@ google.com, pub-7732893348016990, DIRECT, f08c47fec0942fa0
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 indexexchange.com, 200550, DIRECT, 50b1c356f2c5c8fc
 media.net, 8CUH19MD6, DIRECT
+openx.com, 557906231, DIRECT, 6a698e2ec38604c6
